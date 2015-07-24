@@ -24,4 +24,20 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)alertRoja:(id)sender {
+    
+    UIAlertView *alertaRoja = [[UIAlertView alloc] initWithTitle:@"Alerta Roja" message:@"Ha pulsado la Alerta Roja" delegate:self cancelButtonTitle:@"Cancelar" otherButtonTitles:@"Salir", nil];
+    
+    [alertaRoja show];
+    
+}
+
+- (IBAction)alertaAzul:(id)sender {
+}
+
+- (IBAction)alertaVerde:(id)sender {
+}
+
+- (IBAction)alertaAmarilla:(id)sender {
+}
 @end

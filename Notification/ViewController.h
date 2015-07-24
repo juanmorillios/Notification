@@ -9,7 +9,12 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+- (IBAction)alertRoja:(id)sender;
 
+- (IBAction)alertaAzul:(id)sender;
+
+- (IBAction)alertaVerde:(id)sender;
+- (IBAction)alertaAmarilla:(id)sender;
 
 @end
 
