@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9A6FA314-BC5E-47AC-B7CD-1BB130F99B26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E011EFA75E8135ECC59A0B8D0901226769488F30</key>
+		<string>https://github.com/juanmorillios/Notification.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Notification.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E011EFA75E8135ECC59A0B8D0901226769488F30</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/juanmorillios/Notification.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E011EFA75E8135ECC59A0B8D0901226769488F30</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E011EFA75E8135ECC59A0B8D0901226769488F30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Notification</string>
+		</dict>
+	</array>
+</dict>
+</plist>

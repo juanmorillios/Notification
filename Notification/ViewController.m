@@ -26,7 +26,7 @@
 
 - (IBAction)alertRoja:(id)sender {
     
-    UIAlertView *alertaRoja = [[UIAlertView alloc] initWithTitle:@"Alerta Roja" message:@"Ha pulsado la Alerta Roja" delegate:self cancelButtonTitle:@"Cancelar" otherButtonTitles:@"Salir", nil];
+    UIAlertView *alertaRoja = [[UIAlertView alloc] initWithTitle:@"Alerta Roja" message:@"Ha pulsado la Alerta Roja" delegate:nil   cancelButtonTitle:@"Cancelar" otherButtonTitles:@"Salir", nil];
     
     [alertaRoja show];
     
